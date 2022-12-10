@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/developer.mbed.org/teams/Multi-Hackers/code/ISL29011
+default = https://developer.mbed.org/teams/Multi-Hackers/code/ISL29011/
